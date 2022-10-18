@@ -6,3 +6,4 @@
 - [ ] OpenAPI schema is updated (if applicable)
 - [ ] DB schema change has corresponding DB migration (if applicable)
 - [ ] README updated (if worker configuration changed, or if applicable)
+- [ ] Backport PR to Cachito (if applicable)
